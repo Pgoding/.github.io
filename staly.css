@@ -1,0 +1,83 @@
+body{
+    font-size: 25px;
+    background-color: cornsilk;
+    font-family: 'Caveat', cursive;
+    line-height: 60%;
+    line-height: 1.5;
+}
+.blok{
+    border: 1px solid black;
+    padding: 5px;
+    background: rgba(255, 2, 2, 0.137);
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-right:200px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+.links{
+    border: 1px solid black;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
+    background-color: rgba(255, 2, 2, 0.137);
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+.B21{
+    border: 1px solid black;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+hr{
+    border: none;
+    color: black;
+    background-color: black;
+    height: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Sod{
+    text-align: center;
+    font-size: 40px;
+}
+header{
+    text-align: center;
+}
+.B21{
+    background: rgba(255, 2, 2, 0.137);
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    border-bottom: solid;
+    color: #0000FF;
+}
+a:visited{
+    color: #555;
+}
+.table0{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+.otprav{
+    height: 50px;
+    width: 100px;
+}
+.delet{
+    height: 50px;
+    width: 100px;
+}
+.select{
+    height: 50px;
+    width: 100px;
+}
