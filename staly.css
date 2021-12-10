@@ -1,0 +1,31 @@
+body{
+    font-size: 25px;
+    background-color: #FFF8DC;
+    font-family: 'Caveat', cursive;
+    line-height: 60%;
+    line-height: 1.5;
+}
+.blok{
+    border: 1px solid black;
+    padding: 5px;
+}
+.links{
+    border: 1px solid black;
+    padding: 1px;
+    margin-right: 85%;
+    margin-left: 20px;
+}
+h2{
+    text-align: center;
+}
+.B21{
+    border: 1px solid black;
+    margin-right: 25%;
+    margin-left: 20px;
+}
+hr{
+    border: none;
+    color: black;
+    background-color: black;
+    height: 3px;
+}
